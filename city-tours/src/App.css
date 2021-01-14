@@ -1,0 +1,14 @@
+:root {
+    --mainBlue: #5CA4A9;
+    --mainWhite: #ffffff;
+    --mainDark: #333333;
+    --mainGreen: #97c353;
+}
+
+body {
+    font-family: 'Audiowide', cursive !important;
+    background-color: var(--mainWhite);
+    color: var(--mainDark);
+    /* height: 130vh; */
+}
+
